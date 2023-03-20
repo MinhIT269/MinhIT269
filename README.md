@@ -1,6 +1,6 @@
 # 💫About Me :
 📚 I 'm currently an information technology student of The University of Danang - University of Science and Technology
-🌟 I 'm currently learning Java, C#
+#🌟 I 'm currently learning Java, C#
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nnminhitt/) 
